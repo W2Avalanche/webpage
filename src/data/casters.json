@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "photo": "/images/casters/EQUIS.png",
+    "name": "Sergio",
+    "surname": "Capote",
+    "nickname": "Equis",
+    "description": "Mi nombre es Sergio y soy putero, pero esto es una simple presentación de ejemplo. Me encanta castear y soy el goat y me mola salir en todos lados y hacer ruido en redes. A veces hago tierlists y ofendo a algunos tontitos.",
+    "email": "equis@gmail.com",
+    "socialLink": "https://x.com/equisels",
+    "clips": [
+      "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+    ],
+    "games": ["League of Legends", "Valorant", "Wild Rift"]
+  },
+  {
+    "id": 2,
+    "photo": "/images/casters/JACKALSITO.png",
+    "name": "Guillermo",
+    "surname": "de Nicolás",
+    "nickname": "Jackalsito",
+    "socialLink": "https://x.com/jackalsito",
+    "clips": [
+      "clip1URL",
+      "clip2URL",
+      "clip3URL"
+    ]
+  },
+  {
+    "id": 3,
+    "photo": "/images/casters/WARMAX.png",
+    "name": "Aniol",
+    "surname": "V",
+    "nickname": "Warmax",
+    "socialLink": "https://x.com/WarmaxCS",
+    "clips": [
+      "clip1URL",
+      "clip2URL",
+      "clip3URL"
+    ]
+  },
+  {
+    "id": 4,
+    "photo": "/images/casters/FEROX.png",
+    "name": "Fernando",
+    "surname": "Nolose",
+    "nickname": "Ferox",
+    "socialLink": "https://x.com/Ferox_01",
+    "clips": [
+      "clip1URL",
+      "clip2URL",
+      "clip3URL"
+    ]
+  },
+  {
+    "id": 5,
+    "photo": "/images/casters/ISMAEL.png",
+    "name": "Ismael",
+    "surname": "Belando",
+    "nickname": "Isma",
+    "socialLink": "https://x.com/Ismael_Belando",
+    "clips": [
+      "clip1URL",
+      "clip2URL",
+      "clip3URL"
+    ]
+  },
+  {
+    "id": 6,
+    "photo": "/images/casters/XSHERON.png",
+    "name": "Max",
+    "surname": "MuYComplicao",
+    "nickname": "xSher0n",
+    "socialLink": "https://x.com/Xsher0n",
+    "clips": [
+      "clip1URL",
+      "clip2URL",
+      "clip3URL"
+    ]
+  },
+  {
+    "id": 7,
+    "photo": "/images/casters/ALONSIVIRI.png",
+    "name": "Alonso",
+    "surname": "Díaz",
+    "nickname": "Alonsiviri",
+    "socialLink": "https://x.com/Alonsiviri",
+    "clips": [
+      "clip1URL",
+      "clip2URL",
+      "clip3URL"
+    ]
+  },
+  {
+    "id": 8,
+    "photo": "/images/casters/ZURBEX.png",
+    "name": "Oscar",
+    "surname": "Flores",
+    "nickname": "Zurbex",
+    "socialLink": "https://x.com/ZurbexESP",
+    "clips": [
+      "clip1URL",
+      "clip2URL",
+      "clip3URL"
+    ]
+  },
+  {
+    "id": 9,
+    "photo": "https://via.placeholder.com/150",
+    "name": "Ab",
+    "surname": "Ratsu",
+    "nickname": "Abratsuki",
+    "socialLink": "https://x.com/Abratsuki",
+    "clips": [
+      "clip1URL",
+      "clip2URL",
+      "clip3URL"
+    ]
+  }
+]
