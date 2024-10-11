@@ -12,7 +12,7 @@ const CollaborationCard = ({ group }) => {
         <img src={group.logo} alt={`${group.name} logo`} className="w-10 h-10" />
         <h3 className="text-xl font-semibold">{group.name}</h3>
       </div>
-      <p className="text-gray-600">
+      <p className="text-gray-600 ">
         {group.start} - {group.end ? group.end : "Actualidad"}
       </p>
     </div>
