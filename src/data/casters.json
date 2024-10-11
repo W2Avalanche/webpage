@@ -9,9 +9,27 @@
     "email": "equis@gmail.com",
     "socialLink": "https://x.com/equisels",
     "clips": [
-      "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+      "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB",
+      "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l",
+      "Herror"
     ],
-    "games": ["League of Legends", "Valorant", "Wild Rift"]
+    "games": ["League of Legends"],
+    "collaborator":
+      [{
+        "entity": "w2a",
+        "start": "2021",
+        "end": null
+      },
+      {
+        "entity": "ecorp",
+        "start": "2024",
+        "end": null
+      },
+      {
+        "entity": "nexo",
+        "start": "2024",
+        "end": null
+      }]
   },
   {
     "id": 2,
