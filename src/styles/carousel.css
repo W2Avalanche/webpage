@@ -1,0 +1,21 @@
+.carousel .control-arrow {
+    @apply bg-avalancheBlue text-white p-2 rounded-full;
+
+  }
+  
+  .carousel .control-arrow:hover {
+    @apply opacity-80;
+
+  }
+  
+  .carousel .control-dots .dot {
+    background-color: theme('colors.avalancheBlue');
+  }
+  
+  .carousel .control-dots .dot.selected {
+    background-color: theme('colors.avalancheBlue');
+    transform: scale(1.2);
+  }
+  .carousel .carousel-status {
+    display: none;
+  }
