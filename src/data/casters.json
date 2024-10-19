@@ -5,31 +5,149 @@
     "name": "Sergio",
     "surname": "Capote",
     "nickname": "Equis",
-    "description": "Mi nombre es Sergio y soy putero, pero esto es una simple presentación de ejemplo. Me encanta castear y soy el goat y me mola salir en todos lados y hacer ruido en redes. A veces hago tierlists y ofendo a algunos tontitos.",
-    "email": "equis@gmail.com",
     "socialLink": "https://x.com/equisels",
-    "clips": [
-      "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB",
-      "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l",
-      "Herror"
-    ],
-    "games": ["League of Legends"],
-    "collaborator":
-      [{
-        "entity": "w2a",
-        "start": "2021",
-        "end": null
+    "email": "equis@gmail.com",
+    "description": "Mi nombre es Sergio y soy putero, pero esto es una simple presentación de ejemplo. Me encanta castear y soy el goat y me mola salir en todos lados y hacer ruido en redes. A veces hago tierlists y ofendo a algunos tontitos.",
+    "profiles": {
+      "lol": {
+        "clips": {
+          "Clips Destacados": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ],
+          "Análisis": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ],
+          "PBP": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ],
+          "Promociones": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ]
+        },
+        "collaborator": [
+          {
+            "entity": "w2a",
+            "start": "2021",
+            "end": null
+          },
+          {
+            "entity": "ecorp",
+            "start": "2024",
+            "end": null
+          }
+        ]
       },
-      {
-        "entity": "ecorp",
-        "start": "2024",
-        "end": null
+      "valorant": {
+        "clips": {
+          "Una seccion de Valorant": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ],
+          "Distinta": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ],
+          "Al de LOL": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ],
+          "Cada caster lo que quiera": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ],
+          "Cuantas necesiteis": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ]
+        },
+        "collaborator": [
+          {
+            "entity": "nexo",
+            "start": "2024",
+            "end": null
+          }
+        ]
       },
-      {
-        "entity": "nexo",
-        "start": "2024",
-        "end": null
-      }]
+      "wild": {
+        "clips": {
+          "O solo una": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ]
+        },
+        "collaborator": [
+          {
+            "entity": "nexo",
+            "start": "2024",
+            "end": null
+          }
+        ]
+      }
+    }
   },
   {
     "id": 2,
@@ -38,11 +156,36 @@
     "surname": "de Nicolás",
     "nickname": "Jackalsito",
     "socialLink": "https://x.com/jackalsito",
-    "clips": [
-      "clip1URL",
-      "clip2URL",
-      "clip3URL"
-    ]
+    "description": "",
+    "profiles": {
+      "lol": {
+        "clips": {
+          "Clips Destacados": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ]
+          
+        },
+        "collaborator": [
+          {
+            "entity": "w2a",
+            "start": "2021",
+            "end": null
+          },
+          {
+            "entity": "ecorp",
+            "start": "2024",
+            "end": null
+          }
+        ]
+      }
+    }
   },
   {
     "id": 3,
@@ -51,11 +194,36 @@
     "surname": "V",
     "nickname": "Warmax",
     "socialLink": "https://x.com/WarmaxCS",
-    "clips": [
-      "clip1URL",
-      "clip2URL",
-      "clip3URL"
-    ]
+    "description": "",
+    "profiles": {
+      "lol": {
+        "clips": {
+          "Clips Destacados": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ]
+          
+        },
+        "collaborator": [
+          {
+            "entity": "w2a",
+            "start": "2021",
+            "end": null
+          },
+          {
+            "entity": "ecorp",
+            "start": "2024",
+            "end": null
+          }
+        ]
+      }
+    }
   },
   {
     "id": 4,
@@ -64,11 +232,36 @@
     "surname": "Nolose",
     "nickname": "Ferox",
     "socialLink": "https://x.com/Ferox_01",
-    "clips": [
-      "clip1URL",
-      "clip2URL",
-      "clip3URL"
-    ]
+    "description": "",
+    "profiles": {
+      "lol": {
+        "clips": {
+          "Clips Destacados": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ]
+          
+        },
+        "collaborator": [
+          {
+            "entity": "w2a",
+            "start": "2021",
+            "end": null
+          },
+          {
+            "entity": "ecorp",
+            "start": "2024",
+            "end": null
+          }
+        ]
+      }
+    }
   },
   {
     "id": 5,
@@ -77,11 +270,36 @@
     "surname": "Belando",
     "nickname": "Isma",
     "socialLink": "https://x.com/Ismael_Belando",
-    "clips": [
-      "clip1URL",
-      "clip2URL",
-      "clip3URL"
-    ]
+    "description": "",
+    "profiles": {
+      "lol": {
+        "clips": {
+          "Clips Destacados": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ]
+          
+        },
+        "collaborator": [
+          {
+            "entity": "w2a",
+            "start": "2021",
+            "end": null
+          },
+          {
+            "entity": "ecorp",
+            "start": "2024",
+            "end": null
+          }
+        ]
+      }
+    }
   },
   {
     "id": 6,
@@ -90,11 +308,36 @@
     "surname": "MuYComplicao",
     "nickname": "xSher0n",
     "socialLink": "https://x.com/Xsher0n",
-    "clips": [
-      "clip1URL",
-      "clip2URL",
-      "clip3URL"
-    ]
+    "description": "",
+    "profiles": {
+      "lol": {
+        "clips": {
+          "Clips Destacados": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ]
+          
+        },
+        "collaborator": [
+          {
+            "entity": "w2a",
+            "start": "2021",
+            "end": null
+          },
+          {
+            "entity": "ecorp",
+            "start": "2024",
+            "end": null
+          }
+        ]
+      }
+    }
   },
   {
     "id": 7,
@@ -103,11 +346,36 @@
     "surname": "Díaz",
     "nickname": "Alonsiviri",
     "socialLink": "https://x.com/Alonsiviri",
-    "clips": [
-      "clip1URL",
-      "clip2URL",
-      "clip3URL"
-    ]
+    "description": "",
+    "profiles": {
+      "lol": {
+        "clips": {
+          "Clips Destacados": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ]
+          
+        },
+        "collaborator": [
+          {
+            "entity": "w2a",
+            "start": "2021",
+            "end": null
+          },
+          {
+            "entity": "ecorp",
+            "start": "2024",
+            "end": null
+          }
+        ]
+      }
+    }
   },
   {
     "id": 8,
@@ -116,23 +384,73 @@
     "surname": "Flores",
     "nickname": "Zurbex",
     "socialLink": "https://x.com/ZurbexESP",
-    "clips": [
-      "clip1URL",
-      "clip2URL",
-      "clip3URL"
-    ]
+    "description": "",
+    "profiles": {
+      "lol": {
+        "clips": {
+          "Clips Destacados": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ]
+          
+        },
+        "collaborator": [
+          {
+            "entity": "w2a",
+            "start": "2021",
+            "end": null
+          },
+          {
+            "entity": "ecorp",
+            "start": "2024",
+            "end": null
+          }
+        ]
+      }
+    }
   },
   {
     "id": 9,
     "photo": "https://via.placeholder.com/150",
-    "name": "Ab",
-    "surname": "Ratsu",
+    "name": "ABRAHAM",
+    "surname": "DIEGO",
     "nickname": "Abratsuki",
     "socialLink": "https://x.com/Abratsuki",
-    "clips": [
-      "clip1URL",
-      "clip2URL",
-      "clip3URL"
-    ]
+    "description": "",
+    "profiles": {
+      "lol": {
+        "clips": {
+          "Clips Destacados": [
+            {
+              "source": "twitch",
+              "media": "BoxyCourageousEyeballKappa-fVtm8Y3Z2J3gVQWB"
+            },
+            {
+              "source": "twitch",
+              "media": "HilariousRoundSwordPeteZarollTie-3Qv5wwSQwv7hc5-l"
+            }
+          ]
+          
+        },
+        "collaborator": [
+          {
+            "entity": "w2a",
+            "start": "2021",
+            "end": null
+          },
+          {
+            "entity": "ecorp",
+            "start": "2024",
+            "end": null
+          }
+        ]
+      }
+    }
   }
 ]
