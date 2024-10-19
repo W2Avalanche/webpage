@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/webpage/static/css/main.5077c29e.css",
+    "main.js": "/webpage/static/js/main.388a5caf.js",
+    "static/js/453.f750ea3d.chunk.js": "/webpage/static/js/453.f750ea3d.chunk.js",
+    "static/media/fa-solid-900.ttf": "/webpage/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/webpage/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/webpage/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/webpage/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/AkiraOutline.otf": "/webpage/static/media/AkiraOutline.4b3c23897e6ecf2f912a.otf",
+    "static/media/AkiraBold.ttf": "/webpage/static/media/AkiraBold.60ef6e4937e915154237.ttf",
+    "static/media/fa-regular-400.ttf": "/webpage/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/AkiraRegular.otf": "/webpage/static/media/AkiraRegular.c6975efd3f5ad4ce0062.otf",
+    "static/media/fa-regular-400.woff2": "/webpage/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/webpage/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/webpage/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/webpage/index.html",
+    "main.5077c29e.css.map": "/webpage/static/css/main.5077c29e.css.map",
+    "main.388a5caf.js.map": "/webpage/static/js/main.388a5caf.js.map",
+    "453.f750ea3d.chunk.js.map": "/webpage/static/js/453.f750ea3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5077c29e.css",
+    "static/js/main.388a5caf.js"
+  ]
+}
