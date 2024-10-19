@@ -1,0 +1,23 @@
+[
+    {
+        "id": "lol",
+        "name": "League of Legends",
+        "image_active": "/images/game_logos/lol.svg",
+        "image_inactive": "/images/game_logos/lol_inactive.svg",
+        "color": "#0080FF"
+    },
+    {
+        "id": "valorant",
+        "name": "Valorant",
+        "image_active": "/images/game_logos/valorant.svg",
+        "image_inactive": "/images/game_logos/valorant_inactive.svg",
+        "color": "#ff4655"
+    },
+    {
+        "id": "wild",
+        "name": "Wild Rift",
+        "image_active": "/images/game_logos/wild.svg",
+        "image_inactive": "/images/game_logos/wild_inactive.svg",
+        "color": "#179c5f"
+    }
+]
